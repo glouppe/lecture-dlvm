@@ -228,6 +228,14 @@ See blackboard.
 
 class: middle
 
+.center.width-100[![](figures/pgm_diagram_xarrow.png)]
+
+.center[Denoising Diffusion Probabilistic Models (Ho et al, 2020).]
+
+---
+
+class: middle
+
 .center.width-100[![](figures/ddpm_samples.png)]
 
 .center[DDPM samples (Ho et al, 2020).]
@@ -244,9 +252,17 @@ class: middle
 
 class: middle
 
+.center.width-100[![](figures/perturb_vp.gif)]
+
+.center[Perturbing data with an SDE (Song et al, 2021)]
+
+---
+
+class: middle
+
 .center.width-100[![](figures/denoise_vp.gif)]
 
-.center[(Song et al, 2021)]
+.center[Reversing the SDE for sample generation (Song et al, 2021)]
 
 ---
 
