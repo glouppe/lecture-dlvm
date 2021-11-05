@@ -42,6 +42,22 @@ Generative models have a role in many important problems]
 
 ---
 
+class: middle
+
+## Outline
+
+I. Variational inference
+
+II. Variational auto-encoders (VAEs)
+
+III. Hierarchical VAEs
+
+IV. Denoising Diffusion Probabilistic Models
+
+V. VAE priors
+
+---
+
 count: false
 class: middle
 
